@@ -16,7 +16,7 @@ export function Hero() {
       {/* Background */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/tropical-botanical-leaves-soft-green-foliage-jungl.jpg"
+          src="/tropical-botanical-leaves-soft-green-foliage-jungl.png"
           alt=""
           className="w-full h-full object-cover opacity-40"
         />

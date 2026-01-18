@@ -8,7 +8,7 @@ export const products = [
     description:
       "Sérum regenerador anti-edad. Reduce visiblemente manchas, cicatrices y estrías. Combate el acné y mejora la textura. Estimula colágeno y elastina.",
     benefits: ["Anti-edad", "Regeneración", "Hidratación y luminosidad", "No comedogénico"],
-    image: "/natural-cacay-oil-dropper-bottle-botanical-elegant.jpg",
+    image: "/natural-cacay-oil-dropper-bottle-botanical-elegant.png",
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ export const products = [
     description:
       "Protector solar 100% mineral con textura suave y tono uniforme. Ideal para pieles sensibles o reactivas.",
     benefits: ["100% mineral", "Eco-amigable", "UVA+UVB", "Toque seco"],
-    image: "/natural-mineral-sunscreen-tube-botanical-elegant-m.jpg",
+    image: "/natural-mineral-sunscreen-tube-botanical-elegant-m.png",
   },
 ]
 
