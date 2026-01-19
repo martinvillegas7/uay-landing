@@ -22,6 +22,11 @@ export const metadata: Metadata = {
     "Cosmética natural para una piel consciente. Rituales de autocuidado con ingredientes botánicos, formulados artesanalmente y con respeto profundo por la naturaleza.",
   keywords:
     "cosmética natural, cuidado de piel, aceite de cacay, protector solar mineral, ingredientes botánicos, belleza consciente",
+  icons: {
+    icon: "/logo-uay-02.png",
+    shortcut: "/logo-uay-02.png",
+    apple: "/logo-uay-02.png",
+  },
 }
 
 export default function RootLayout({

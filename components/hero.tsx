@@ -57,7 +57,7 @@ export function Hero() {
 
           {/* Mini Benefits */}
           <div className="flex flex-wrap items-center justify-center gap-4 lg:gap-6 animate-in fade-in slide-in-from-bottom-4 duration-700 delay-400">
-            {benefits.map((benefit, index) => (
+            {benefits.map((benefit) => (
               <div
                 key={benefit.text}
                 className="flex items-center gap-2 px-4 py-2 bg-verde-salvia/15 rounded-full border border-verde-salvia/20"
